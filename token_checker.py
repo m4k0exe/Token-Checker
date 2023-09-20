@@ -7,7 +7,7 @@ import os
 import platform
 
 author = "m4k0exe"
-join_for_more = "https://github.com/m4k0exe"
+my_github = "https://github.com/m4k0exe"
 
 config = {
     "proxyless": False,
